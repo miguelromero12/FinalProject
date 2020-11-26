@@ -1,9 +1,7 @@
-body{
-    background-image: url("../images/1*pK0JpPmfVGkGXtBmUdE8Iw.jpeg");
+html.body{
+    background-image: url("../images/contact.jpeg");
     height: 100%;
-    width: 100%;
 }
-
 .footer {
     position: fixed;
     left: 0;

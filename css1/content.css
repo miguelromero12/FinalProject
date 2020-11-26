@@ -6,6 +6,7 @@ body{
 }
 .content1{
     color: white;
+    float: bottom;
 }
 .content1.a{
     color: white;
