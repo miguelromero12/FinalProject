@@ -1,175 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="673bab9c-b51d-4653-b9b2-90c8f84c5a35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css1/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css1/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/content.css" afterDir="false" />
+    <list default="true" id="d03f059b-fe98-4f26-96de-30ee5858df5f" name="Default Changelist" comment="Final project full files">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/html" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="hiddenUrls">
-      <set>
-        <option value="https://github.com/miguelromero12/FinalProject" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1kQaJtgErZ6p92h9izW60pxx8Uc" />
+  <component name="ProjectId" id="1koMDbNf1FtrE2NMIwJteiJq0Uq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="673bab9c-b51d-4653-b9b2-90c8f84c5a35" name="Default Changelist" comment="" />
-      <created>1605635203413</created>
+      <changelist id="d03f059b-fe98-4f26-96de-30ee5858df5f" name="Default Changelist" comment="" />
+      <created>1606362371957</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605635203413</updated>
-      <workItem from="1605635206750" duration="483000" />
-      <workItem from="1605636049199" duration="184000" />
-      <workItem from="1605638632225" duration="1789000" />
-      <workItem from="1606003041096" duration="965000" />
-      <workItem from="1606009239308" duration="19000" />
-      <workItem from="1606147775946" duration="5448000" />
-      <workItem from="1606240304228" duration="9428000" />
+      <updated>1606362371957</updated>
+      <workItem from="1606362378150" duration="264000" />
+      <workItem from="1606362681267" duration="1280000" />
     </task>
-    <task id="LOCAL-00001" summary="Page name on top">
-      <created>1606175981396</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1606175981396</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Page name on top">
-      <created>1606178541733</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1606178541733</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Page name on top">
-      <created>1606179656258</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1606179656259</updated>
-    </task>
-    <task id="LOCAL-00004" summary="jumbo image difficulty with back ground picture.">
-      <created>1606258824309</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1606258824309</updated>
-    </task>
-    <task id="LOCAL-00005" summary="css connection">
-      <created>1606262981164</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1606262981165</updated>
-    </task>
-    <task id="LOCAL-00006" summary="content and contact page rebuilt &#10;also css for content and contact and index getting fix better">
-      <created>1606276139707</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1606276139707</updated>
-    </task>
-    <task id="LOCAL-00007" summary="content and contact page rebuilt &#10;also css for content and contact and index getting fix better">
-      <created>1606323106930</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1606323106930</updated>
-    </task>
-    <task id="LOCAL-00008" summary="content and contact page rebuilt &#10;also css for content and contact and index getting fix better">
-      <created>1606361723571</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1606361723571</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Page name on top" />
-    <MESSAGE value="jumbo image difficulty with back ground picture." />
-    <MESSAGE value="css connection" />
-    <MESSAGE value="content and contact page rebuilt &#10;also css for content and contact and index getting fix better" />
-    <option name="LAST_COMMIT_MESSAGE" value="content and contact page rebuilt &#10;also css for content and contact and index getting fix better" />
+    <MESSAGE value="Final project full files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final project full files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="105" y="23" width="985" height="828" key="CommitChangelistDialog2" timestamp="1606361722721">
+    <state x="323" y="265" key="#Notifications" timestamp="1606362606033">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="105" y="23" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1606179656092" />
-    <state x="105" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1606361722721" />
-    <state x="105" y="23" width="985" height="828" key="CommitChangelistDialog2/0.23.1440.828@0.23.1440.828" timestamp="1606262980978" />
-    <state x="22" y="93" key="DiffContextDialog" timestamp="1606361205249">
+    <state x="323" y="265" key="#Notifications/0.23.1440.827@0.23.1440.827" timestamp="1606362606033" />
+    <state x="63" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606362515101">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="22" y="93" key="DiffContextDialog/0.23.1440.827@0.23.1440.827" timestamp="1606361205249" />
-    <state x="404" y="360" key="Github.CreateGistDialog" timestamp="1606361516683">
+    <state x="63" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1606362515101" />
+    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1606364275607">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="404" y="360" key="Github.CreateGistDialog/0.23.1440.827@0.23.1440.827" timestamp="1606361516683" />
-    <state x="457" y="353" key="Github.ShareDialog" timestamp="1606361603557">
+    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1606364275607" />
+    <state x="457" y="338" key="Github.ShareDialog" timestamp="1606363015675">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="457" y="352" key="Github.ShareDialog/0.23.1440.825@0.23.1440.825" timestamp="1605642386898" />
-    <state x="457" y="353" key="Github.ShareDialog/0.23.1440.827@0.23.1440.827" timestamp="1606361603557" />
-    <state x="288" y="147" key="Github.UntrackedFilesDialog" timestamp="1605642393723">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state x="288" y="147" key="Github.UntrackedFilesDialog/0.23.1440.825@0.23.1440.825" timestamp="1605642393723" />
-    <state x="198" y="174" key="Vcs.Push.Dialog.v2" timestamp="1606361776532">
+    <state x="457" y="338" key="Github.ShareDialog/0.23.1440.827@0.23.1440.827" timestamp="1606363015675" />
+    <state x="198" y="174" key="Vcs.Push.Dialog.v2" timestamp="1606364283380">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="198" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1606179788893" />
-    <state x="198" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1606361776532" />
-    <state x="263" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1606242089071">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="263" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1606242089071" />
+    <state x="198" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1606364283380" />
   </component>
 </project>

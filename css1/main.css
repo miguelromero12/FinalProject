@@ -1,4 +1,4 @@
-body{
+html{
     background-image: url("../images/3NIEQB3SFVCMNHH6MHZ42FO6PA.jpg");
 }
 .container-for-about{
@@ -6,7 +6,6 @@ body{
 }
 header{
     font-style: italic;
-    color:white;
 }
 .header2{
     font-style: normal;
