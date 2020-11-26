@@ -2,6 +2,12 @@ html{
     background-image: url("../images/contact.jpeg");
     height: 100%;
 }
+.my-container-fluid{
+    background-image: url("../images/contact.jpeg");
+}
+.my-container-fluid.navbar-brand{
+    background-image: url("../images/contact.jpeg");
+}
 .footer {
     position: fixed;
     left: 0;
