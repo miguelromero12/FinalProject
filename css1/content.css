@@ -6,7 +6,8 @@ body{
 }
 body.col-md-1{
     align-content: center;
-
+    font-family: sans-serif;
+    color: white;
 }
 .footer {
     position: fixed;
