@@ -1,14 +1,10 @@
 
 body{
     background-image: url("../images/content-1.jpg");
-    height: fit-content;
-    width: fit-content;
+    height: 100%;
+    width: available;
 }
-body.col-md-1{
-    align-content: center;
-    font-family: sans-serif;
-    color: white;
-}
+
 .footer {
     position: fixed;
     left: 0;
