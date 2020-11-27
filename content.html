@@ -9,6 +9,23 @@
           crossorigin="anonymous">
     <link href="css1/content.css" rel="stylesheet">
 </head>
+<style>
+    .container{
+        color: white;
+        float: bottom;
+        text-align: center;
+    }
+    .navbar-brand{
+        background-image: url("images/data(1).jpg");
+        overflow: hidden;
+        text-indent: 100%;
+        white-space: nowrap;
+    }
+    .container-for-about{
+        text-align: center;
+    }
+</style>
+<body>
 <div class="container-fluid">
     <div class="row">
         <nav class="navbar navbar-expand-md
@@ -49,12 +66,20 @@
         </nav>
     </div>
 </div>
-<body>
-<div class="content1">
-    <div class="col-md-1">
-    <h1>My Resume</h1>
-        <a href="resume/My_New_Resume(1).pdf" target="_blank">Here</a>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h2>My Resume</h2>
+        </div>
     </div>
+    <div class="container-for-about">
+        <div class="row-cols-12">
+            <div class="col-12">
+                <a class="btn btn-primary" href="resume/My_New_Resume(1).pdf" role="button">Link</a>
+            </div>
+        </div>
+    </div>
+
 </div>
 </body>
 <footer class="footer page-footer font-small ">

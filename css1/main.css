@@ -1,20 +1,11 @@
-html{
-    background-image: url("../images/3NIEQB3SFVCMNHH6MHZ42FO6PA.jpg");
-}
-.container-for-about{
-    -webkit-shape-image-threshold: initial;
-}
-header{
-    font-style: italic;
-}
+
 .header2{
     font-style: normal;
     color: white;
 }
 /**navegation bar**/
-.container-fluid{
-   font-family: sans-serif;
-
+body{
+    background-image: url("../images/main.jpg");
 }
 /** Jumbo tromp **/
 .jumbotron{
