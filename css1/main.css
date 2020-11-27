@@ -8,11 +8,7 @@ body{
     background-image: url("../images/main.jpg");
 }
 /** Jumbo tromp **/
-.jumbotron{
-    font-style: normal;
-    font-size: small;
-    position: relative;
-}
+
 /** footer**/
 .footer {
     position: fixed;
