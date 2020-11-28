@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d03f059b-fe98-4f26-96de-30ee5858df5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    <list default="true" id="d03f059b-fe98-4f26-96de-30ee5858df5f" name="Default Changelist" comment="main page taking shape">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lightbulb.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/lightbulb.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/teamwork-quotes.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/teamwork-quotes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +66,7 @@
       <workItem from="1606362378150" duration="264000" />
       <workItem from="1606362681267" duration="5730000" />
       <workItem from="1606423890735" duration="4692000" />
-      <workItem from="1606441743786" duration="12365000" />
+      <workItem from="1606441743786" duration="24904000" />
     </task>
     <task id="LOCAL-00001" summary="Final project full files">
       <created>1606364619356</created>
@@ -168,7 +173,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606500970460</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="about page completed">
+      <created>1606524962909</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606524962909</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Dropdown remote trouble with the interconnection of the pages">
+      <created>1606527073820</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606527073820</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Dropdown remote trouble with the interconnection of the pages">
+      <created>1606527294847</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1606527294847</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +209,10 @@
     <MESSAGE value="Background fix whit logo fixture fix.&#10;still fixing main page.&#10;doing filler for about this page." />
     <MESSAGE value="home page rebuilt in progess logo fixed looking for jumbotron option" />
     <MESSAGE value="issues with the publish page" />
-    <option name="LAST_COMMIT_MESSAGE" value="issues with the publish page" />
+    <MESSAGE value="about page completed" />
+    <MESSAGE value="Dropdown remote trouble with the interconnection of the pages" />
+    <MESSAGE value="main page taking shape" />
+    <option name="LAST_COMMIT_MESSAGE" value="main page taking shape" />
   </component>
   <component name="WindowStateProjectService">
     <state x="323" y="264" key="#Notifications" timestamp="1606423951763">
@@ -199,12 +228,18 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="63" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1606362515101" />
-    <state x="294" y="23" key="CommitChangelistDialog2" timestamp="1606500970179">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1606606693735">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1606606693735" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1606425154498" />
-    <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1606450012524" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1606527294710" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1606602536196" />
     <state x="294" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1606500970179" />
+    <state x="144" y="93" key="DiffContextDialog" timestamp="1606606686514">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="144" y="93" key="DiffContextDialog/0.23.1440.811@0.23.1440.811" timestamp="1606606686514" />
     <state x="457" y="338" key="Github.ShareDialog" timestamp="1606500995084">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -213,20 +248,22 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="275" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1606423974077" />
-    <state x="198" y="174" key="Vcs.Push.Dialog.v2" timestamp="1606500870301">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="198" y="170" key="Vcs.Push.Dialog.v2" timestamp="1606606736293">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
+    <state x="198" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1606606736293" />
     <state x="198" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1606425173224" />
-    <state x="198" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1606450016907" />
-    <state x="198" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1606450997972" />
+    <state x="198" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1606527359696" />
+    <state x="198" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1606602539815" />
     <state x="198" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1606500870301" />
     <state x="572" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606500919206">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="572" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.827@0.23.1440.827" timestamp="1606500919206" />
-    <state x="439" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1606424626422">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="439" y="168" width="670" height="667" key="search.everywhere.popup" timestamp="1606605263618">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
+    <state x="439" y="168" width="670" height="667" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1606605263618" />
     <state x="439" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1606424626422" />
   </component>
 </project>

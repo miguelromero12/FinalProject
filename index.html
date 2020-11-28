@@ -11,15 +11,37 @@
     <link href="css1/main.css" rel="stylesheet">
 </head>
 <header>
-    <h2>Miguel's Web</h2>
+    <h1>Miguel's Web</h1>
     <h2>Page</h2>
 </header>
 <style>
+    header{
+        color:powderblue ;
+    }
     .navbar-brand{
         background-image: url("images/data(1).jpg");
         overflow: hidden;
         text-indent: 100%;
         white-space: nowrap;
+    }
+    p.col-3{
+        width:50%;
+    }
+    p.col-lg-1{
+        text-align: left;
+
+    }
+    .jumbotron.mycontainer{
+        /* The image used */
+        background: url('images/main.jpg');
+        background-size:100%;
+        color:powderblue;
+        font-size: large;
+        size:landscape;
+    }
+    .col-sm-4{
+        padding: 15px;
+        margin: 20px;
     }
 </style>
 <body>
@@ -49,19 +71,51 @@
                         <a class="nav-link" href="contact.html"> Contact</a>
                     </li>
                     <!-- Dropdown -->
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop"
-                           data-toggle="dropdown">
-                            About
-                        </a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">About The Page</a>
-                        </div>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
                     </li>
                 </ul>
             </div>
         </nav>
     </div>
+</div>
+<div class="jumbotron mycontainer" style="height: 100%;">
+    <div class="row">
+        <div class="col-sm-4  text-center">
+            <h2>It Is about Exploring </h2>
+            <h3>And Developing</h3>
+        </div>
+    </div>
+    <div class="row" >
+
+        <img src="images/creativity.jpeg" alt="creativity" width="13%">
+        <p class="col-1"></p>
+
+        <img src="images/teamwork.jpg" alt="teamwork" width="15%" >
+        <p class="col-3"></p>
+
+        <img src="images/personality.webp" alt="Personality" width="12%">
+        <p class="col-1"></p>
+
+        <img src="images/about-image-4.jpg" alt="Knowledge" width="14%">
+
+    </div>
+    <div class="row">
+        <p class="col-1">Creativity,
+        Innovating is key.</p>
+        <p class="col-1"></p>
+        <p class="col-lg-1">Team work is the pillar of working together.
+            big things.</p>
+        <p class="col-lg-3"></p>
+        <p class="col-1"></p>
+        <p class="col-1">Personality,
+            be you focus on you.</p>
+        <p class="col-1"></p>
+        <p class="col-1"></p>
+        <p class="col-1">Knowledge is power,
+            the more you know the more they want you.</p>
+    </div>
+
 </div>
 </body>
 <footer class="footer page-footer font-small ">
