@@ -1,4 +1,23 @@
 body{
-    background-image: url("../images/index.jpg");
+    background-image: url("../images/process.jpg");
     background-size: 100%;
+    color: white;
+    text-align: center;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1.0rem;
+}
+.navbar-brand {
+    background-image: url("../images/data(1).jpg");
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;
 }
